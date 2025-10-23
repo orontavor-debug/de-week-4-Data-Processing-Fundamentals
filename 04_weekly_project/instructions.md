@@ -87,4 +87,25 @@ To simplify reporting and analytics, create two new reporting tables:
 
 Metabase official page: [metabase](https://www.metabase.com/)
 
+[Running Metabase on Docker](https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker)
+
+1. Download and run Metabase as a Docker container.  Execute command `docker run -d -p 3000:3000 metabase/metabase`
+2. Access Metabase from `http://localhost:3000/` . Provided your postgres details to connect to db from metabase.
+   
+<p align="center">
+   
+![ETL Pipeline](assets/metabase_connection.png)
+
+</p>
+
+3. Connect Metabase to your Postgres database.
+
+
+<p align="center">
+   
+![ETL Pipeline](assets/metabase_database.png)
+
+</p>
+
+
 
