@@ -37,7 +37,7 @@ Perform the following steps in sequence:
 Extract all order dates from the fact table `fct_tblnorthwind` and prepare them for use in API calls. Output should be a list with all orderdates.
 
 #### 2.2 Fetch Weather Data  
-Use the Open-Meteo Archive API to fetch weather data for Berlin based on the order dates.  
+Use the Open-Meteo Archive [API](https://open-meteo.com/en/docs/historical-weather-api) to fetch weather data for Berlin based on the order dates.  
 - Use Berlin’s latitude and longitude.  
 - Collect the maximum and minimum daily temperatures.  
 - Calculate the average temperature for each order date.  
