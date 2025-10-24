@@ -1,0 +1,7 @@
+DISCORD_WEBHOOK_URL=<replace with your DISCORD_WEBHOOK_URL>
+
+# you can change the credentials
+ANALYTICS_DB_HOST=analytics_db
+POSTGRES_USER_ANALYTICS=user_analytics
+POSTGRES_PASSWORD_ANALYTICS=password_analytics
+POSTGRES_DB_ANALYTICS=mastodon_analytics
