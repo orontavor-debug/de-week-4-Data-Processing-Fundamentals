@@ -6,7 +6,7 @@
 Practice making a GET request to a public API, parsing the JSON response, and saving specific information to a CSV file.
 
 ### Scenario:
-You want to keep a record of the current weather in your city. Use the Open-Meteo API (no authentication required) to fetch the temperature and weather condition for a city, then save the results as a CSV file.
+You want to keep a record of the current weather in your city. Use the [Open-Meteo](https://open-meteo.com/) API (no authentication required) to fetch the temperature and weather condition for a city, then save the results as a CSV file.
 
 ### Instructions:
 
@@ -37,3 +37,4 @@ You want to keep a record of the current weather in your city. Use the Open-Mete
 | 65   | Heavy rain               |
 | 80   | Rain showers             |
 | 95   | Thunderstorm             |
+
